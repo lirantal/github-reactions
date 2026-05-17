@@ -10,3 +10,7 @@ When you want to show your appreciation for a Pull Request, would you rather rep
 Or would you rather want to see a heart warming sincere appreciation like this:
 
 ** place holder **
+
+## Contributing
+
+Please consult [CONTRIBUTING](./CONTRIBUTING.md) for guidelines on contributing to this project.
